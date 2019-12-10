@@ -10,14 +10,14 @@ const HouseProfileSchema = new mongoose.Schema({
     required: true
   },
   description: {
-    type: [String],
+    type: String,
     required: true
   },
   price: {
-    type: [Number]
+    type: Number,
   },
   houseType: {
-    type: [String],
+    type: String,
   },
   availability: {
     type: Date,
