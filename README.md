@@ -8,9 +8,9 @@ homerental is a small app which enables users to manage their flat bookings
 * [x] User can login into the app - Server
 
 * [ ] User can delete a houseProfile - Server
-* [ ] User can edite a houseProfile - Server
-* [ ] User can edite a houseProfile - Server
-* [ ] User can edite a houseProfile - Client
+* [ ] User can edit a houseProfile - Server
+* [ ] User can edit a houseProfile - Client
+* [ ] User can delete a houseProfile - Client
 
 ## Tech
 - Webpack as module bundler and client dev server
