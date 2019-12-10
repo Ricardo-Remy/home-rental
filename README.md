@@ -16,7 +16,7 @@ homerental is a small app which enables users to manage their flat bookings
 - Webpack as module bundler and client dev server
 - React as library
 - Redux as a state manager
-- NodeJs for the server
+- Express for the server
 - MongoDB as DB
 - Eslint, prettier and husky as precommit hook
 
