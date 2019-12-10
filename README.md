@@ -30,7 +30,7 @@ homerental is a small app which enables users to manage their flat bookings
 ## Installation
 
 1. Clone the repository to your machine: `git clone REPO-URL` where `REPO-URL` is provided by GitHub.
-1. To install server dependencies `npm install`
+1. To install server dependencies `cd home-rental && npm install`
 2. To install client dependencies `cd client && npm install`
 
 ---
