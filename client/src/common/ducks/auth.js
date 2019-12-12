@@ -88,6 +88,7 @@ export const loadUser = () => async dispatch => {
 };
 
 // User login
+
 export const userLogin = (email, password) => async dispatch => {
   const config = {
     headers: {
@@ -154,7 +155,7 @@ export const userRegister = ({
     const { errors } = err.response.data;
 
     if (errors) {
-      errors.forEach(error => dispatch(console.log(error.msg)));
+      console.log(errors);
     }
 
     dispatch({
